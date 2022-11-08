@@ -1,0 +1,44 @@
+{
+  "urls": [
+    "..\\cloudnet-mobile\\resource\\default\\zh-tw\\sound\\slot_music.ogg?1644841334782",
+    "..\\cloudnet-mobile\\resource\\default\\zh-tw\\sound\\slot_music.mp3?1644841334782"
+  ],
+  "sprite": {
+    "auto_button": [
+      0,
+      156.73469387755102
+    ],
+    "bigwin_bg": [
+      2000,
+      6400
+    ],
+    "bigwin_coin": [
+      10000,
+      6295.510204081634
+    ],
+    "bigwin_point": [
+      18000,
+      6269.387755102041
+    ],
+    "digital_rotation": [
+      26000,
+      18337.95918367347
+    ],
+    "jp_fx": [
+      46000,
+      10997.551020408167
+    ],
+    "lucky_JP": [
+      58000,
+      9560.816326530614
+    ],
+    "red": [
+      69000,
+      1044.897959183672
+    ],
+    "sg_countdown_5": [
+      72000,
+      1332.2448979591854
+    ]
+  }
+}

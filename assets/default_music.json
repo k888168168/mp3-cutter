@@ -1,0 +1,16 @@
+{
+  "urls": [
+    "..\\cloudnet-mobile\\resource\\default\\zh-tw\\sound\\default_music.ogg?1644841337583",
+    "..\\cloudnet-mobile\\resource\\default\\zh-tw\\sound\\default_music.mp3?1644841337583"
+  ],
+  "sprite": {
+    "default_nosound": [
+      0,
+      1032.0181405895692
+    ],
+    "score_rotation": [
+      3000,
+      18337.95918367347
+    ]
+  }
+}
